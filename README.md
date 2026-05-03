@@ -1,2 +1,1 @@
-# Online-HairCut-Solution
-# Online-HairCut-Solution
+# Project Simulator
